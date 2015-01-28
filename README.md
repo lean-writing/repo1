@@ -8,6 +8,10 @@ editing in the browser...
 - two 
 - three
 
+tools to use?
+- firebase/firepad
+- ace
+
 1. one
 2. two
 3. three
